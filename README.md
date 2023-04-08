@@ -19,9 +19,7 @@ npm install
 npm start
 ```
 
-**🔗 Deploy**
-
-[(netlify)REACT CSS LIBRARY 배포한 사이트 보러가기 👉](https://iridescent-cobbler-142570.netlify.app)
+**🔗 Deploy https://react-css-library.netlify.app/ 👉**
 
 <br>
 <br>
